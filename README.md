@@ -1,0 +1,2 @@
+# Command-MySQL
+SELECT, INSERT, DAN DELETE
